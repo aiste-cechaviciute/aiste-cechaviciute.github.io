@@ -1,32 +1,28 @@
 {
-	"publications": [{
+	"The I'll add it to the List, List": [{
 		"Title": "The Overstory",
-		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Year": "2021"
+		"Medium": "book",
+		"Recommended by": "Rima"
 	},
 	{
-		"Title": "Harry Potter and the Prizonder of Azkaban",
-		"Authors": "Stasaski, K. and Ramanarayanan, V.",
-		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
-		"Year": "2020"
+		"Title": "The Ezra Klein Show",
+		"Medium": "podcast",
+		"Recommended by": "Austin"
 	},
 	{
-		"Title": "More Diverse Dialogue Datasets via Diversity-Informed Data Collection",
-		"Authors": "Stasaski, K., Yang, G., and Hearst, M.A.",
-		"Venue": "ACL",
-		"Year": "2020"
+		"Title": "Convivial Toolbox",
+		"Medium": "book",
+		"Recommended by": "Jess"
 	},
 	{
-		"Title": " Construction of a Large Open Access Dialogue Dataset for Tutoring",
-		"Authors": "Stasaski, K., Kao, K., and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2020"
+		"Title": "Jun Nam Paik",
+		"Medium": "art exhibit",
+		"Recommended by": "Shahan"
 	},
 	{
-		"Title": "Multiple Choice Question Generation Utilizing an Ontology",
-		"Authors": "Stasaski, K and Hearst, M.A.",
-		"Venue": "BEA Workshop",
-		"Year": "2017"
+		"Title": "Future Islands",
+		"Medium": "music",
+		"Recommended by": "Kelly"
 	}]
 	
 }
