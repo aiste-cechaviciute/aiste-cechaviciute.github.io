@@ -1,12 +1,11 @@
 {
 	"publications": [{
-		"Title": "Automatically Generating Cause-and_Effect Questions from Passages",
+		"Title": "The Overstory",
 		"Authors": "Stasaski, K., Rathod, M., Tu, T., Xiao, Y, and Hearst, M.A.",
-		"Venue": "BEA Workshop",
 		"Year": "2021"
 	},
 	{
-		"Title": "Automatic Feedback Generation for Dialog-Based Language Tutors Using Transformer Models and Active Learning",
+		"Title": "Harry Potter and the Prizonder of Azkaban",
 		"Authors": "Stasaski, K. and Ramanarayanan, V.",
 		"Venue": "Human-in-the-Loop Dialogue Systems Workshop",
 		"Year": "2020"
